@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TikTok Recharge",
+    "slug": "tiktok-recharge",
+    "version": "1.0.0",
+    "platforms": ["web"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
